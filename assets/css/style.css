@@ -893,6 +893,9 @@ html, body {
   .section-about .col-xs-6:nth-child(n+2) .feature-about {
     margin-top: 20px;
   }
+  .my-rectangle-logo {
+    display: none;
+  }
 }
 
 /* Section: Skills */
