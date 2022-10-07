@@ -650,7 +650,7 @@ html, body {
  * Sections
  */
 .site-section {
-  padding: 50px;
+  padding: 80px 50px 50px;
 }
 
 .site-section h2 {
